@@ -1,4 +1,4 @@
-# electron-quick-start
+# login-attendance-electron-app
 
 **Clone and run for a quick way to see Electron in action.**
 
